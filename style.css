@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+}
+.title-discreption{
+    text-align: center;
+}
+#title-discreption-gap{
+    margin-bottom: 100px;
+    font-size: 50px;
+    color: rgba(255, 0, 0, 0.562);
+}
+.book-discreption{
+    display: flex;
+}
+.one-third{
+    width: 30%;
+}
+#motivation-book-image{
+    padding-left: 8%;
+}
+#paragraph-part{
+    margin-left: -5%;
+}
+#second-book-image{
+    padding-left: 5%;
+    margin-top: -4%;
+}
+#elite-plus-export-import-image{
+    margin-left: -20%;
+    margin-top: -10%;
+}
+.book-morality{
+    padding: 10px 15%;
+    margin-top: -110px;
+    background-color: rgb(238, 235, 230);
+    height: 100%;
+}
+.read-more-text{
+    display: none;
+}
+.read-more-btn{
+    padding: 5px 30px;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+}
+.about-siful-bappy{
+    display: flex;
+}
+.about-bappy-both-txt-and-imag{
+    width: 50%;
+    padding-left: 3%;
+}
+.about-siful-bappy img{
+    height: 80%;
+    width: 80%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
