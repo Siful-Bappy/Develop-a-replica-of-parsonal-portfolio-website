@@ -1,7 +1,6 @@
 body{
     margin: 0px;
     background-color: rgb(245, 229, 232);
-    
 }
 .title-discreption{
     text-align: center;
@@ -11,7 +10,7 @@ body{
     background-repeat: no-repeat, no-repeat;
 }
 #title-discreption-gap{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     font-size: 50px;
     color: rgba(255, 0, 0, 0.562);
 }
@@ -27,6 +26,9 @@ body{
 }
 #paragraph-part{
     margin-left: -5%;
+}
+#paragraph-part p{
+    font-family: 'Titillium Web', sans-serif;
 }
 #second-book-image{
     padding-left: 5%;
